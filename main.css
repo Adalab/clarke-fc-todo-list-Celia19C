@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.invisible {
+  display: none;
+}
+.off {
+  display: none;
+}
+.task_list {
+  list-style:none;
+}
+.tachado {
+  text-decoration:line-through
+}
